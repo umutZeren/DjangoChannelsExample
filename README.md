@@ -1,4 +1,5 @@
 # DjangoChannelsExample
+Self Notes and Documentation
 It is template for a Django project with channels,live data streaming and graphing with chart.js
 Django Realtime  
 -Only good alternative is Django-channels  
